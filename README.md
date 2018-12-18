@@ -1,4 +1,4 @@
 # bamboo_scripts
 Scripts for use with Bamboo
 
-![output sample](https://imgur.com/a/oluUI7H.png)
+![output sample](https://i.imgur.com/ihlTK5U.png)
